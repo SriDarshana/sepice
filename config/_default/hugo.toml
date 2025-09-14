@@ -1,11 +1,11 @@
 # toml-docs-start main
-title = "Hinode"
-copyright = "Copyright © 2022 - 2025 Mark Dumay."
+title = "SÉPICE"
+copyright = "Copyright © 2025"
 enableGitInfo = true
 # toml-docs-end main
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://sepice.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true

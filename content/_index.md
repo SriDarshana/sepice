@@ -1,24 +1,40 @@
 ---
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+title: Welcome to SÉPICE!
+description: Sépice - Bringing the world's finest spices to your kitchen. We meticulously source rare single-origin, high-quality, authentic spices and craft unique blends to unlock new depths of flavor in your cooking. Discover new flavors and elevate your home cooking with our curated selection. Shop our full range online and have premium spices delivered right to your door.
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Welcome to Hinode!
+      title: Welcome to SÉPICE!
       content: |-
-        A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
-      width: 6
+        Sépice - Bringing the world's finest spices to your kitchen. We meticulously source rare single-origin, high-quality, authentic spices and craft unique blends to unlock new depths of flavor in your cooking. Discover new flavors and elevate your home cooking with our curated selection. Shop our full range online and have premium spices delivered right to your door.
+      width: 5
     background:
-      color: primary
+      color: danger #primary, danger, info
       subtle: true
     illustration:
-      image: /img/sunrise.jpg
-      ratio: 16x9
-    width: 8
+      image: /img/wcgirl_new3.png
+      ratio: 4x3 #16*9
+    width: 12
     links:
-      - title: Getting started
-        url: https://gethinode.com/docs
+      - title: Place an order
+        url: https://wa.me/message/WMM6S3FQUT3PB1
         icon: fas chevron-right
     orientation: horizontal
     justify: center
+
+  - _bookshop_name: articles
+    heading:
+      title: Blog
+      align: start
+    input:
+      section: blog
+      reverse: true
+      sort: date
+    hide-empty: false
+    header-style: none
+    more:
+      title: Meer artikelen
+    padding: 0
+    limit: 3
+    class: border-0 card-zoom card-body-margin
 ---

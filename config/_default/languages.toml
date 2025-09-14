@@ -6,10 +6,9 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = "The Soul of Ceylon Flavor"
     [en.params.social]
-        title = "Follow me"
-        caption = "I work on everything coding and tweet developer memes"
+        title = "Stay tuned"
+        caption = "Happy cooking with SÉPICE 🍲"
     [en.params.footer]
-        # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer nofollow'>CC BY-NC-SA 4.0</a>)."
 # toml-docs-end lang-param

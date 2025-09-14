@@ -1,13 +1,13 @@
 ---
 author: Mark Dumay
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+title: Welcome to SÉPICE!
+description: Sépice - Bringing the world's finest spices to your kitchen. We meticulously source rare single-origin, high-quality, authentic spices and craft unique blends to unlock new depths of flavor in your cooking. Discover new flavors and elevate your home cooking with our curated selection. Shop our full range online and have premium spices delivered right to your door.
 content_blocks:
   - _bookshop_name: hero
     heading:
-      title: Welcome to Hinode!
+      title: Welcome to SÉPICE!
       content: |-
-        A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+        Sépice - Bringing the world's finest spices to your kitchen.
       width: 6
     background:
       color: primary
