@@ -140,7 +140,7 @@
 - id: rights
   translation: "All rights reserved"
 - id: poweredBy
-  translation: "Powered by SÉPICE  v1.0.1"
+  translation: "Powered by SÉPICE  v1.0.2"
 
 # Comments
 - id: show

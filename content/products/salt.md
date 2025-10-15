@@ -2,7 +2,7 @@
 author: SD
 title: Salt
 date: 2025-01-26
-description: "..."
+description: "250g"
 # tags: ["blog"]
 thumbnail:
   url: img/salt.jpg

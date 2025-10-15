@@ -2,7 +2,7 @@
 author: SD
 title: Cinnamon
 date: 2025-01-25
-description: "..."
+description: "25g - 100g"
 # tags: ["blog"]
 thumbnail:
   url: img/cinnamon.jpg

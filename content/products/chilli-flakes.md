@@ -2,7 +2,7 @@
 author: SD
 title: Chilli Flakes
 date: 2025-01-29
-description: "..."
+description: "100g - 1Kg"
 # tags: ["blog"]
 thumbnail:
   url: img/chilli_flakes.jpg

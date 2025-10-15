@@ -2,7 +2,7 @@
 author: SD
 title: Pepper Powder
 date: 2025-01-27
-description: "..."
+description: "50g - 250g"
 # tags: ["blog"]
 searchExclude: true
 thumbnail:

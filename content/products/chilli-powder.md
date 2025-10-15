@@ -2,7 +2,7 @@
 author: SD
 title: Chilli Powder
 date: 2025-01-31
-description: "..."
+description: "100g - 1Kg"
 # tags: ["bootstrap", "shortcode"]
 keywords: featured
 thumbnail:

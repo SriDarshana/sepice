@@ -2,7 +2,7 @@
 author: SD
 title: Curry Powder
 date: 2025-01-30
-description: "..."
+description: "100g - 1Kg"
 # tags: ["bootstrap", "shortcode"]
 keywords: featured
 thumbnail:

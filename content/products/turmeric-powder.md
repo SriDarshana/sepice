@@ -2,7 +2,7 @@
 author: SD
 title: Turmeric Powder
 date: 2025-01-28
-description: "..."
+description: "50g - 250g"
 # tags: ["blog"]
 thumbnail:
   url: img/turmeric.jpg
