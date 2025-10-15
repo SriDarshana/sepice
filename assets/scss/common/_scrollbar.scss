@@ -19,10 +19,11 @@
 		background: $background-color;
 	}
 
-	// Standard version (Firefox, only appears on scroll)
+	/* stylelint-disable */
 	@supports (-moz-appearance:none) {
 		scrollbar-color: $foreground-color $background-color;
 	}
+	/* stylelint-enable */
 }
 
 .scrollbar-horizontal
