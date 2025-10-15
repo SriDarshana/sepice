@@ -41,7 +41,7 @@ jobs:
       run: npm run lint      
 
   build:
-    needs: lint
+    # needs: lint << commented: Sri
 
     strategy:
       matrix:
@@ -103,7 +103,3 @@ jobs:
 
     - name: Build main site
       run: npm run build:cache
-
-    # The example site is to be published to demo.gethinode.com
-    - name: Build example site
-      run: npm run build:example:ci

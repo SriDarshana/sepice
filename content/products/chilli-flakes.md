@@ -13,10 +13,8 @@ thumbnail:
 Coarsely crushed red chillies with seeds, providing a striking visual texture. Ideal for stir-fries with oils. A simple sprinkle for serious spice lovers.
 
 ### Ingredients
-100% dried chillies
 
+100% dried chillies
 
 ### Available Pack Sizes
 100g, 250g, 500g, 1Kg
-
-

@@ -15,8 +15,8 @@ thumbnail:
 A vibrant and potent blend of sun-dried chillies, carefully ground to deliver a balanced heat and rich colour. Perfect for adding depth and fire to all curries. Experience the pure warmth of authentic spice.
 
 ### Ingredients
-100% ground dried chillies
 
+100% ground dried chillies
 
 ### Available Pack Sizes
 100g, 250g, 500g, 1Kg

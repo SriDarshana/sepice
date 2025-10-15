@@ -15,8 +15,8 @@ modules: ["leaflet", "lottie", "mermaid", "simple-datatables"]
 Our signature blend, ground whole sri lankan spices. This aromatic mix offers a complex profile, warm and mildly pungent, the essential foundation for any delicious curry. Unlock the true taste of tradition.
 
 ### Ingredients
-100% ground Sri Lankan spices
 
+100% ground Sri Lankan spices
 
 ### Available Pack Sizes
 100g, 250g, 500g, 1Kg
