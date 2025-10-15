@@ -44,7 +44,7 @@
             {{- errorf "Cannot find download file for page '%s': %s" $page.File.Path $download -}}
         {{- end -}}
         
-        <div class="py-3 text-body-secondary hstack gap-1">
+        <!-- <div class="py-3 text-body-secondary hstack gap-1">
             {{ T "shareLink" " " }}
             {{- range $index, $item := $list -}}
                 {{- $url := $item.url -}}
@@ -100,6 +100,6 @@
                     "spacing"    false
                 ) }}
             {{- end -}}
-        </div>
+        </div> -->
     {{- end -}}
 {{- end -}}

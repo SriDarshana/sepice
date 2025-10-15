@@ -43,10 +43,6 @@
     {{- else if eq $keywords "tags" }}{{ $maxTags = 3 }}{{ end -}}
 
     <p class="card-text"><small class="{{ if $color }}text-bg-{{ $color }}{{ else }}text-body-secondary{{ end }} text-uppercase">
-        {{- if in (slice "full" "publication") $keywords -}}
-            {{ with $page.Date }}{{ partial "utilities/date.html" (dict "date" . "format" "long") }}&nbsp;&bull;&nbsp;{{ end -}}
-            {{ $page.ReadingTime | lang.FormatNumber 0 }} {{ i18n "minutesShort" }} {{ i18n "read" -}}
-        {{- end -}}
 
         {{- if eq $keywords "full" -}}
             {{ if gt (len ($page.GetTerms "tags")) 0 }}&nbsp;&bull;&nbsp;{{ end -}}
