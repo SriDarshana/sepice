@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on SÉPICE</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Products on SÉPICE</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content blocks</title>
+      <link>http://localhost:1313/blog/content-blocks/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/content-blocks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local and remote images</title>
+      <link>http://localhost:1313/blog/image/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Components</title>
+      <link>http://localhost:1313/blog/components/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/components/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bootstrap elements</title>
+      <link>http://localhost:1313/blog/bootstrap-elements/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/bootstrap-elements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fourth post (excluded from search)</title>
+      <link>http://localhost:1313/blog/fourth-post/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/fourth-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus libero in felis accumsan, vitae imperdiet metus vehicula. Quisque nec dignissim purus. In id dui porta sapien posuere viverra nec vel nisi. Sed varius tincidunt lectus, quis sagittis felis interdum id. Proin purus odio, ultrices auctor libero convallis, volutpat gravida turpis. Ut commodo metus orci, quis sagittis lectus rhoncus non. Nulla et lectus tortor. Suspendisse quam felis, molestie non odio quis, consequat venenatis orci. Etiam sed turpis sit amet elit scelerisque imperdiet. Sed suscipit felis non nibh suscipit egestas. Nulla sodales libero non rhoncus consequat. Nunc in elit at est cursus congue ut ac velit. Cras luctus libero augue, id semper sapien volutpat ultrices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Third post</title>
+      <link>http://localhost:1313/blog/third-post/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/third-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in. Suspendisse sagittis eleifend dapibus. Curabitur dignissim luctus sapien eu consequat. Proin congue dui vel ipsum bibendum varius. Pellentesque cursus nisi metus, egestas eleifend ipsum sollicitudin vitae. Sed vitae erat elementum, semper turpis sed, molestie nulla.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second post</title>
+      <link>http://localhost:1313/blog/second-post/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/second-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum. Vivamus dictum sem eu rhoncus semper. Vestibulum convallis congue tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris magna urna, egestas sit amet ligula quis, viverra semper arcu. Praesent laoreet nunc vitae nulla posuere facilisis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First post</title>
+      <link>http://localhost:1313/blog/first-post/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/first-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

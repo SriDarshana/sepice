@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Offers on SÉPICE</title>
+    <link>https://sepice.com/offer/</link>
+    <description>Recent content in Offers on SÉPICE</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2025. All rights reserved</copyright>
+    <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sepice.com/offer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offer 20</title>
+      <link>https://sepice.com/offer/offer-one/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sepice.com/offer/offer-one/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bundle Offer 01</title>
+      <link>https://sepice.com/offer/offer-two/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sepice.com/offer/offer-two/</guid>
+      <description>&lt;p&gt;This includes:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;1. Chilli powder 100g&#xA;&#xA;2. Curry powder 100g&#xA;&#xA;3. Chilli flakes 100g&#xA;&#xA;4. Pepper powder 50g&#xA;&#xA;5. Turmeric powder 50g&#xA;&#xA;And FREE DELIVERY !!!&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>

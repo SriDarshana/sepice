@@ -1,7 +1,7 @@
 _vendor/
 prebuild/
 prebuild-headers/
-public/
+
 resources/
 node_modules/
 

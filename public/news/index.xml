@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on SÉPICE</title>
+    <link>https://sepice.com/news/</link>
+    <description>Recent content in News on SÉPICE</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2025. All rights reserved</copyright>
+    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sepice.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ready to Launch</title>
+      <link>https://sepice.com/news/news-one/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sepice.com/news/news-one/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free Delivery</title>
+      <link>https://sepice.com/news/news-two/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sepice.com/news/news-two/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Giveaway</title>
+      <link>https://sepice.com/news/news-three/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sepice.com/news/news-three/</guid>
+      <description>&lt;p&gt;SÉPICE First Giveaway !!!&lt;/p&gt;&#xA;&lt;p&gt;Ready to elevate your home cooking? We&amp;rsquo;re thrilled to launch our first giveaway, offering you the chance to win a curated collection of our finest, ethically-sourced spices!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gift packages</title>
+      <link>https://sepice.com/news/news-four/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sepice.com/news/news-four/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
