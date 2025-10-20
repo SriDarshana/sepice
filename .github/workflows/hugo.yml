@@ -40,7 +40,7 @@ jobs:
           
       # CRITICAL FIX: Use the dedicated setup action for Hugo Extended
       - name: Setup Hugo CLI (Extended Version)
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '${{ env.HUGO_VERSION }}'
           extended: true # Ensures 'try' and 'ToMath' are available
