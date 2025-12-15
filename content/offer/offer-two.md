@@ -19,4 +19,3 @@ This includes:
 
     5. Turmeric powder 50g
 
-    And FREE DELIVERY !!!

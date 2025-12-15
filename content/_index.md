@@ -6,7 +6,7 @@ content_blocks:
     heading:
       title: 
       content: |-
-        🚚.......... Free Islandwide Delivery on oders over LKR.1500 !!!
+        🚚.......... Free Islandwide Delivery on oders over LKR.2500 !!!
       width: 12 #6
     background:
       color: danger #primary, danger, info, success, warning
@@ -47,7 +47,7 @@ content_blocks:
     more:
       title: See more
     padding: 5
-    limit: 2
+    limit: 3
     class: border-0 card-zoom card-body-margin
 
   - _bookshop_name: video-message
@@ -100,5 +100,10 @@ content_blocks:
     class: border-0 card-zoom card-body-margin
 
 ---
-
+{{< carousel id="carousel-21x9" ratio="21x9" class="col-lg-12 col-lg-8 mx-auto **bg-transparent**">}}
+  {{< img src="img/showcase01.jpg" caption="Welcome to SÉPICE" >}}
+  {{< img src="img/showcase03.jpg" caption="" >}}
+  {{< img src="img/showcase05.jpg" caption="" >}}
+  {{< img src="img/bundle_offer01.png" caption="" >}}
+{{< /carousel >}}
 

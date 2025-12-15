@@ -10393,7 +10393,7 @@ div.card-container-wrapper::after {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.3); }
+  background-color: rgba(0, 0, 0, 0.1); }
 
 .clipboard-button {
   position: absolute;
@@ -12410,6 +12410,8 @@ a.toc-level-6 {
   border-radius: 5px; }
 
 .scrollbar-horizontal {
+  /* stylelint-disable */
+  /* stylelint-enable */
   overflow-x: scroll;
   margin: auto; }
   .scrollbar-horizontal::-webkit-scrollbar {

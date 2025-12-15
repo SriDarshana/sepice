@@ -28,8 +28,10 @@
 {{ $items := len (findRE "carousel-item" $inner) -}}
 
 {{/* Main code */}}
+{{ $interval := default "2500" (.Get "interval") }}
+{{ $pause := default "false" (.Get "pause") }}
 {{ if not $args.err }}
-    <div id="{{ $id }}" class="carousel slide mb-3{{ with $args.class }} {{ . }}{{ end }}" data-bs-ride="true">
+    <div id="{{ $id }}" class="carousel slide mb-3{{ with $args.class }} {{ . }}{{ end }}" data-bs-ride="carousel" data-bs-interval="{{ $interval }}" data-bs-pause="{{ $pause }}">
         <div class="carousel-indicators">
             {{ range $index := (seq $items) -}}
                 <button type="button" data-bs-target="#carousel-{{ $id }}" data-bs-slide-to="{{ sub $index 1 }}" {{ if eq $index 1 }}class="active"{{ end }} aria-current="true" aria-label="Slide {{ $index }}"></button>

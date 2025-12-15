@@ -8,16 +8,19 @@ content_blocks:
       title: Contact Us
       content: |- 
 
+
         Phone or WhatsApp : +9471 370 22 55 
 
         Email : info.sepice@gmail.com
 
-        Location : Gampaha, Sri Lanka.
-
         Facebook : https://facebook.com/sepicelanka
 
+        Location : Gampaha, Sri Lanka.
 
         "Just drop a message on WhatsApp, our team will contact you ASAP."
+
+        ## SEPICE LANKA (PVT) LTD
+        Reg No: PV 00347672
         
       width: 10 #5
     background:
@@ -26,4 +29,3 @@ content_blocks:
       backdrop: /img/contactus.jpg
     justify: center
 ---
-
