@@ -15,7 +15,7 @@ arguments:
   overlay-mode:
   cover:
   orientation:
-  width:
+  # width:
   justify:
   use-section:
   use-title:

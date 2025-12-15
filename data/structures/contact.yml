@@ -27,7 +27,7 @@ arguments:
   order:
     default: first
   orientation:
-  width:
+  # width:
   justify:
   class:
   width:
