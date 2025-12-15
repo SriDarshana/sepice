@@ -26,7 +26,7 @@ How to Enter:
 
 Key Details:
 
-Deadline: 12.12.2025
+Deadline: 31.01.2026
 The winner will be randomly selected and notified via WhatsApp/Direct Message.
 
 Eligibility: Anyone who is enthusiastic about SÉPICE.

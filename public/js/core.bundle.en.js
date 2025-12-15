@@ -6610,7 +6610,7 @@ function initIndex() {
         description: "Get the following items on LKR. 1000/-",
         
         
-        content: "This includes:\n1. Chilli powder 100g 2. Curry powder 100g 3. Chilli flakes 100g 4. Pepper powder 50g 5. Turmeric powder 50g And FREE DELIVERY !!!"
+        content: "This includes:\n1. Chilli powder 100g 2. Curry powder 100g 3. Chilli flakes 100g 4. Pepper powder 50g 5. Turmeric powder 50g"
       })
       .add(
       
@@ -6619,6 +6619,20 @@ function initIndex() {
       
       {
         id: 2,
+        href: "/offer/offer-three/",
+        title: "Bundle Offer 02",
+        description: "Get the following items on LKR. 2500/-",
+        
+        
+        content: "This includes:\n1. Chilli powder 250g 2. Curry powder 250g 3. Chilli flakes 250g 4. Pepper powder 100g 5. Turmeric powder 100g And Free Delivery !!! \u0026nbsp;"
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 3,
         href: "/products/chilli-flakes/",
         title: "Chilli Flakes",
         description: "100g - 1Kg",
@@ -6632,7 +6646,7 @@ function initIndex() {
       
       
       {
-        id: 3,
+        id: 4,
         href: "/products/chilli-powder/",
         title: "Chilli Powder",
         description: "100g - 1Kg",
@@ -6646,7 +6660,7 @@ function initIndex() {
       
       
       {
-        id: 4,
+        id: 5,
         href: "/products/cinnamon/",
         title: "Cinnamon",
         description: "25g - 100g",
@@ -6660,7 +6674,7 @@ function initIndex() {
       
       
       {
-        id: 5,
+        id: 6,
         href: "/products/curry-powder/",
         title: "Curry Powder",
         description: "100g - 1Kg",
@@ -6674,7 +6688,7 @@ function initIndex() {
       
       
       {
-        id: 6,
+        id: 7,
         href: "/blocks/faq/",
         title: "FAQ",
         description: "Shows an accordion of frequently asked questions. Clicking on a question reveals the answer interactively.",
@@ -6688,10 +6702,10 @@ function initIndex() {
       
       
       {
-        id: 7,
+        id: 8,
         href: "/news/news-two/",
         title: "Free Delivery",
-        description: "Free delivery on oders over LKR 1500/-",
+        description: "Free delivery on oders over LKR 2500/-",
         
         
         content: ""
@@ -6702,7 +6716,7 @@ function initIndex() {
       
       
       {
-        id: 8,
+        id: 9,
         href: "/news/news-four/",
         title: "Gift packages",
         description: "Stay tuned ...",
@@ -6716,13 +6730,13 @@ function initIndex() {
       
       
       {
-        id: 9,
+        id: 10,
         href: "/news/news-three/",
         title: "Giveaway",
         description: "SÉPICE First Giveaway",
         
         
-        content: "SÉPICE First Giveaway !!!\nReady to elevate your home cooking? We\u0026rsquo;re thrilled to launch our first giveaway, offering you the chance to win a curated collection of our finest, ethically-sourced spices!\nAt SÉPICE, we believe that the best meals start with the best ingredients. This giveaway is our way of helping you explore a world of flavor and transform your everyday dishes from ordinary to extraordinary.\nWhat You\u0026rsquo;ll Win: Five lucky winners will receive the gift packages from SÉPICE.\nHow to Enter: Joining is easy. Simply follow the steps below:\nFollow our page on Facebook. Like our posts. Tag 10 friends and share this post to your news feed and tag us.\nKey Details:\nDeadline: 12.12.2025 The winner will be randomly selected and notified via WhatsApp/Direct Message.\nEligibility: Anyone who is enthusiastic about SÉPICE.\nGood luck! We can\u0026rsquo;t wait to spice up your kitchen."
+        content: "SÉPICE First Giveaway !!!\nReady to elevate your home cooking? We\u0026rsquo;re thrilled to launch our first giveaway, offering you the chance to win a curated collection of our finest, ethically-sourced spices!\nAt SÉPICE, we believe that the best meals start with the best ingredients. This giveaway is our way of helping you explore a world of flavor and transform your everyday dishes from ordinary to extraordinary.\nWhat You\u0026rsquo;ll Win: Five lucky winners will receive the gift packages from SÉPICE.\nHow to Enter: Joining is easy. Simply follow the steps below:\nFollow our page on Facebook. Like our posts. Tag 10 friends and share this post to your news feed and tag us.\nKey Details:\nDeadline: 31.01.2026 The winner will be randomly selected and notified via WhatsApp/Direct Message.\nEligibility: Anyone who is enthusiastic about SÉPICE.\nGood luck! We can\u0026rsquo;t wait to spice up your kitchen."
       })
       .add(
       
@@ -6730,7 +6744,7 @@ function initIndex() {
       
       
       {
-        id: 10,
+        id: 11,
         href: "/about/mission/",
         title: "Mission 🚀",
         description: "We are committed to sourcing and delivering the highest quality, ethically-sourced spices, providing a curated collection that empowers our customers to explore global flavors and create unforgettable culinary experiences.",
@@ -6744,7 +6758,7 @@ function initIndex() {
       
       
       {
-        id: 11,
+        id: 12,
         href: "/offer/offer-one/",
         title: "Offer 20",
         description: "Get 20% discount on your first order !!!",
@@ -6758,7 +6772,7 @@ function initIndex() {
       
       
       {
-        id: 12,
+        id: 13,
         href: "/news/news-one/",
         title: "Ready to Launch",
         description: "We are ready to deliver SÉPICE products.",
@@ -6772,7 +6786,7 @@ function initIndex() {
       
       
       {
-        id: 13,
+        id: 14,
         href: "/products/salt/",
         title: "Salt",
         description: "250g",
@@ -6786,7 +6800,7 @@ function initIndex() {
       
       
       {
-        id: 14,
+        id: 15,
         href: "/products/turmeric-powder/",
         title: "Turmeric Powder",
         description: "50g - 250g",
@@ -6800,7 +6814,7 @@ function initIndex() {
       
       
       {
-        id: 15,
+        id: 16,
         href: "/about/values/",
         title: "Values 💎",
         description: "We are obsessed with purity and potency, which is why we meticulously source small batches and ensure minimal time from farm to package. We guarantee our spices are free from fillers, additives, and anything that distracts from the true, vibrant flavor nature intended.",
@@ -6814,7 +6828,7 @@ function initIndex() {
       
       
       {
-        id: 16,
+        id: 17,
         href: "/about/vision/",
         title: "Vision 🎯",
         description: "Inspiring every home cook to transform their meals from ordinary to extraordinary.",
