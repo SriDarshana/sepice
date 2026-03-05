@@ -6675,6 +6675,20 @@ function initIndex() {
       
       {
         id: 6,
+        href: "/products/cumin/",
+        title: "Cumin",
+        description: "50g - 250g",
+        
+        
+        content: "Product Description \u0026nbsp; Boldly savory with a hint of citrus brightness, our premium Cumin Seeds release an intoxicating warmth the moment they hit the pan. Essential for crafting complexity and character in every fold of your cooking. The definitive spice for a rich, layered palate.\nIngredients \u0026nbsp; 100% pure cumin seeds\nAvailable Pack Sizes \u0026nbsp; 50g, 100g, 250g"
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 7,
         href: "/products/curry-powder/",
         title: "Curry Powder",
         description: "100g - 1Kg",
@@ -6688,7 +6702,7 @@ function initIndex() {
       
       
       {
-        id: 7,
+        id: 8,
         href: "/blocks/faq/",
         title: "FAQ",
         description: "Shows an accordion of frequently asked questions. Clicking on a question reveals the answer interactively.",
@@ -6702,7 +6716,21 @@ function initIndex() {
       
       
       {
-        id: 8,
+        id: 9,
+        href: "/products/fennel/",
+        title: "Fennel",
+        description: "50g - 250g",
+        
+        
+        content: "Product Description \u0026nbsp; With a crisp, aromatic profile and a hint of natural sweetness, our premium Fennel Seeds are the secret to subtle complexity. Whether crushed into a savory rub or infused into a delicate broth, they provide a refined, cooling counterpoint that lingers beautifully. The aromatic bridge between sweet and savory.\nIngredients \u0026nbsp; 100% pure fennel seeds\nAvailable Pack Sizes \u0026nbsp; 50g, 100g, 250g"
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 10,
         href: "/news/news-two/",
         title: "Free Delivery",
         description: "Free delivery on oders over LKR 2500/-",
@@ -6716,7 +6744,7 @@ function initIndex() {
       
       
       {
-        id: 9,
+        id: 11,
         href: "/news/news-four/",
         title: "Gift packages",
         description: "Stay tuned ...",
@@ -6730,7 +6758,7 @@ function initIndex() {
       
       
       {
-        id: 10,
+        id: 12,
         href: "/news/news-three/",
         title: "Giveaway",
         description: "SÉPICE First Giveaway",
@@ -6744,7 +6772,7 @@ function initIndex() {
       
       
       {
-        id: 11,
+        id: 13,
         href: "/about/mission/",
         title: "Mission 🚀",
         description: "We are committed to sourcing and delivering the highest quality, ethically-sourced spices, providing a curated collection that empowers our customers to explore global flavors and create unforgettable culinary experiences.",
@@ -6758,7 +6786,7 @@ function initIndex() {
       
       
       {
-        id: 12,
+        id: 14,
         href: "/offer/offer-one/",
         title: "Offer 20",
         description: "Get 20% discount on your first order !!!",
@@ -6772,7 +6800,7 @@ function initIndex() {
       
       
       {
-        id: 13,
+        id: 15,
         href: "/news/news-one/",
         title: "Ready to Launch",
         description: "We are ready to deliver SÉPICE products.",
@@ -6786,21 +6814,7 @@ function initIndex() {
       
       
       {
-        id: 14,
-        href: "/products/salt/",
-        title: "Salt",
-        description: "250g",
-        
-        
-        content: "Product Description \u0026nbsp; Pure and naturally mineral-rich, our salt enhances the flavour of every ingredient it touches without overwhelming them. The indispensable final touch to season and perfect any meal. The essential element of flavour.\nIngredients \u0026nbsp; 100% pure salt\nAvailable Pack Sizes \u0026nbsp; 250g"
-      })
-      .add(
-      
-      
-      
-      
-      {
-        id: 15,
+        id: 16,
         href: "/products/turmeric-powder/",
         title: "Turmeric Powder",
         description: "50g - 250g",
@@ -6814,7 +6828,7 @@ function initIndex() {
       
       
       {
-        id: 16,
+        id: 17,
         href: "/about/values/",
         title: "Values 💎",
         description: "We are obsessed with purity and potency, which is why we meticulously source small batches and ensure minimal time from farm to package. We guarantee our spices are free from fillers, additives, and anything that distracts from the true, vibrant flavor nature intended.",
@@ -6828,7 +6842,7 @@ function initIndex() {
       
       
       {
-        id: 17,
+        id: 18,
         href: "/about/vision/",
         title: "Vision 🎯",
         description: "Inspiring every home cook to transform their meals from ordinary to extraordinary.",

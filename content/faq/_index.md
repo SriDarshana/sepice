@@ -12,7 +12,7 @@ content_blocks:
       content: >-
         We deliver all your desires 🙂 
     background:
-      color: info
+      color: none #info
       subtle: true
     items:
       - title: What makes SÉPICE spices special?

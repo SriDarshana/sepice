@@ -83,9 +83,9 @@ content_blocks:
       title: News
       align: end
     background:
-      color: info #primary, danger, info
+      color: none #primary, danger, info
       subtle: true
-      backdrop: /img/sunset.jpg
+      # backdrop: /img/sunset.jpg
     input:
       section: news
       reverse: true
@@ -100,10 +100,10 @@ content_blocks:
     class: border-0 card-zoom card-body-margin
 
 ---
-{{< carousel id="carousel-21x9" ratio="21x9" class="col-lg-12 col-lg-8 mx-auto **bg-transparent**">}}
-  {{< img src="img/showcase01.jpg" caption="Welcome to SÉPICE" >}}
-  {{< img src="img/showcase03.jpg" caption="" >}}
-  {{< img src="img/showcase05.jpg" caption="" >}}
+{{< carousel id="carousel-21x9" ratio="21x9" class="col-lg-12 col-lg-8 mx-auto">}}
+  {{< img src="img/chille_banner.png" caption="">}}
+  {{< img src="img/text_banner.png" caption="" >}}
+  {{< img src="img/set_banner.png" caption="" >}}
   {{< img src="img/bundle_offer01.png" caption="" >}}
 {{< /carousel >}}
 

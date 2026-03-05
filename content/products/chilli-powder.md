@@ -7,6 +7,7 @@ description: "100g - 1Kg"
 keywords: featured
 thumbnail:
   url: img/chilli_powder1.jpg
+  # url: img/IMG_7590.png
   size: 3*4
 ---
 

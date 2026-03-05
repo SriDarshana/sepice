@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sourceRoot": "/Users/sri/Sri Darshana/SÉPICE_web/hinode",
 	"sources": [
-		"scss/bundle-1765789846477593000.scss",
+		"scss/bundle-1772728981539450000.scss",
 		"hugo:vars",
 		"../../SÉPICE_web/hinode/assets/scss/common/_variables.scss",
 		"../../SÉPICE_web/hinode/assets/scss/theme/_variables.scss",
