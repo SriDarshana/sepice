@@ -1,4 +1,4 @@
----
+<!-- ---
 author: SD
 title: Salt
 date: 2025-01-26
@@ -17,4 +17,4 @@ Pure and naturally mineral-rich, our salt enhances the flavour of every ingredie
 100% pure salt
 
 ### Available Pack Sizes
-250g
+250g -->
