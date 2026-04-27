@@ -76,7 +76,7 @@
     "cssnano": "^7.1.7",
     "cssnano-preset-advanced": "^7.0.15",
     "hugo-bin": "0.149.2",
-    "lint": "^0.8.19",
+    "lint": "^1.2.2",
     "purgecss-whitelister": "^2.4.0"
   },
   "devDependencies": {
