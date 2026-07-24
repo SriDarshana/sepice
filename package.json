@@ -84,7 +84,7 @@
     "@commitlint/config-conventional": "^21.0.2",
     "@gethinode/netlify-plugin-dartsass": "^0.3.0",
     "@semantic-release/exec": "^7.1.0",
-    "@semantic-release/git": "^11.0.0",
+    "@semantic-release/git": "^11.0.1",
     "commitizen": "^4.3.2",
     "cpy-cli": "^7.0.0",
     "cz-conventional-changelog": "^3.3.0",
