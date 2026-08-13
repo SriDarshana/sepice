@@ -74,7 +74,7 @@
     "@fullhuman/postcss-purgecss": "^8.0.0",
     "autoprefixer": "^10.5.4",
     "cssnano": "^8.0.5",
-    "cssnano-preset-advanced": "^8.0.4",
+    "cssnano-preset-advanced": "^8.0.5",
     "hugo-bin": "0.161.0",
     "lint": "^1.2.2",
     "purgecss-whitelister": "^2.4.0"
