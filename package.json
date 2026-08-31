@@ -73,7 +73,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^8.0.0",
     "autoprefixer": "^10.5.4",
-    "cssnano": "^8.0.8",
+    "cssnano": "^9.0.0",
     "cssnano-preset-advanced": "^8.0.8",
     "hugo-bin": "0.162.0",
     "lint": "^1.2.2",
