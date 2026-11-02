@@ -75,7 +75,7 @@
     "autoprefixer": "^10.6.2",
     "cssnano": "^9.9.0",
     "cssnano-preset-advanced": "^10.0.0",
-    "hugo-bin": "0.166.0",
+    "hugo-bin": "0.167.0",
     "lint": "^1.2.2",
     "purgecss-whitelister": "^2.4.0"
   },
